@@ -1,3 +1,10 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/Concepts-OOP-blue)
+![Console App](https://img.shields.io/badge/Application-Console-green)
+![Beginner](https://img.shields.io/badge/Difficulty-Beginner-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 ## ☕ Coffee Machine Simulator (Java Console Application)
 
 A console-based coffee machine simulation developed in Java, allowing users to purchase coffee, pay using coins, receive change, manage ingredients, and view sales reports.
