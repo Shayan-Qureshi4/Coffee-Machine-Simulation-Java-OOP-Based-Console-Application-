@@ -33,13 +33,13 @@ The program runs entirely in the terminal/command line and is ideal for beginner
 
 ## ☕ Available Coffee Options
 
-Coffee Type	Price ($)	Water (ml)	Milk (ml)	Coffee (g)
+Coffee Type	| Price ($) |	Water (ml) |	Milk (ml)	| Coffee (g)
 
-Espresso	1.50	50	0	18
+Espresso |	1.50$	| 50ml |	0ml | 18g
 
-Latte	2.50	200	150	24
+Latte	| 2.50$	| 200ml |	150ml |	24g
 
-Cappuccino	3.00	250	100	24
+Cappuccino |	3.00$	| 250ml |	100ml	| 24g
 
 ---
 
